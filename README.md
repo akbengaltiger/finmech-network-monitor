@@ -148,6 +148,15 @@ Example values should always be used when documenting deployments publicly.
 - [ ] Reporting and SLA dashboards
 - [ ] Role-based access control
 
+## Documentation
+
+- **[Architecture](docs/ARCHITECTURE.md)** — system components and alert-state design
+- **[Features](docs/FEATURES.md)** — monitoring, alerting, interface and dashboard capabilities
+- **[API Examples](docs/API_EXAMPLES.md)** — sanitized representative REST API examples
+- **[Roadmap](docs/ROADMAP.md)** — completed, in-progress and planned work
+- **[Project Structure](docs/PROJECT_STRUCTURE.md)** — representative application organization
+- **[Security Policy](SECURITY.md)** — rules for keeping sensitive infrastructure data private
+
 ## Screenshots
 
 Screenshots of the sanitized dashboard can be added under a future `docs/screenshots/` directory.
